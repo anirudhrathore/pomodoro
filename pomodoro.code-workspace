@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../VSCode/College/helloworld"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pomodoro"
+	}
+}
